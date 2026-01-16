@@ -2,7 +2,7 @@
 
 A **synchronous web crawler** built with Playwright, designed to visit a list of Notion pages, capture their fully rendered content, and extract structured information from each page.
 
-Note: this version of the crawler is designed to visit Notion pages which contain song listing and extract their corresponding PDF charts.
+Note: this version of the crawler is designed to visit Notion pages which contain song listings and extract their corresponding PDF charts.
 
 ---
 
@@ -103,6 +103,7 @@ For major changes, please open an issue first to discuss.
 ## Acknowledgements
 
 - Uses BeautifulSoup, Playwright and Requests.
+
 
 
 
