@@ -69,7 +69,7 @@ A **synchronous web crawler** built with Playwright, designed to visit a list of
 
 - **STEP 3**:
 
--- Crawling results will be stored in 'output' dir.
+```Crawling results are stored in 'output' dir```
 
 ---
 
@@ -102,5 +102,6 @@ For major changes, please open an issue first to discuss.
 ## Acknowledgements
 
 - Uses BeautifulSoup, Playwright and Requests.
+
 
 
